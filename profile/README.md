@@ -1,5 +1,11 @@
 # Joint Body on the status of the mountain snow cover (SMSC)
 
+<p float="left">
+  <img src="https://cryosphericsciences.org/wp-content/themes/iacs/img/iugg_logo_complete.png" height="100" />
+  <img src="https://cryosphericsciences.org/wp-content/uploads/2022/01/MRI_logo_blue.png" height="100" />
+  <img src="https://cryosphericsciences.org/wp-content/uploads/2022/01/wmo-20200509_logo2016-acronym-714x1024.jpg" height="100" /> 
+  <img src="https://cryosphericsciences.org/wp-content/uploads/2022/01/gcw_logo_v2_oval-300x195.png" height="100" />
+</p>
 
 
 ## Overview 
